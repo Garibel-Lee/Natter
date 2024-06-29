@@ -1,0 +1,2 @@
+🏠 en0 | 局域网= direct, interface=en0, allow-other-interface=false, test-url=10.0.0.1
+🛜 vpn | 局域网= direct, interface=utun5, allow-other-interface=false, test-url=10.0.0.1
